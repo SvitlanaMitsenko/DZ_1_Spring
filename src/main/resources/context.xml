@@ -1,0 +1,12 @@
+<beans xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns="http://www.springframework.org/schema/beans"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans-5.2.xsd">
+
+<!--    <bean id="sony" class="example.task2.impl."/>   -->
+<!--    <bean id="audi2" class="spring.impl.car.Audi" scope="prototype ">-->
+<!--        <constructor-arg ref="garmin"/>-->
+<!--        <constructor-arg ref="sony"/>-->
+<!--    </bean>-->
+
+</beans>
